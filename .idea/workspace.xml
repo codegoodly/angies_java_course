@@ -4,33 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6b0c22b-aa29-454a-823e-9659d0c242b2" name="Changes" comment="Angies java course">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angies_java_course.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter2/GrossPayCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter3/GradeMessage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter3/LoanQualifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/AddNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/Cashier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/GrossPayInputValidation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/PhoneBillCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/RolltheDieGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/HomeAreaCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/HomeAreaCalculatorRedo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/Month.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/MonthConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/PhoneBill.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/PhoneBillCalculatorRedo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/DayOfTheWeek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/Grades.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/LotteryTicket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter8/TextProcessor.java" afterDir="false" />
-    </list>
+    <list default="true" id="e6b0c22b-aa29-454a-823e-9659d0c242b2" name="Changes" comment="Angies java course" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -150,6 +124,13 @@
       <option name="presentableId" value="Default" />
       <updated>1657099261379</updated>
     </task>
+    <task id="LOCAL−00001" summary="Angies java course">
+      <created>1657189734994</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1657189734994</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
