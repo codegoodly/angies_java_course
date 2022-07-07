@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6b0c22b-aa29-454a-823e-9659d0c242b2" name="Changes" comment="Angies java course" />
+    <list default="true" id="e6b0c22b-aa29-454a-823e-9659d0c242b2" name="Changes" comment="Angies java course">
+      <change afterPath="$PROJECT_DIR$/src/chapter8/PasswordValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter8/TextProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter8/TextProcessor.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,7 +43,7 @@
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.TextProcessor">
+  <component name="RunManager" selected="Application.PasswordValidator">
     <configuration name="DayOfTheWeek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter7.DayOfTheWeek" />
       <module name="angies_java_course" />
@@ -79,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PhoneBillCalculatorRedo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter6.PhoneBillCalculatorRedo" />
+    <configuration name="PasswordValidator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter8.PasswordValidator" />
       <module name="angies_java_course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter6.*" />
+          <option name="PATTERN" value="chapter8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,10 +112,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.TextProcessor" />
-        <item itemvalue="Application.DayOfTheWeek" />
-        <item itemvalue="Application.Grades" />
+        <item itemvalue="Application.PasswordValidator" />
         <item itemvalue="Application.LotteryTicket" />
-        <item itemvalue="Application.PhoneBillCalculatorRedo" />
+        <item itemvalue="Application.Grades" />
+        <item itemvalue="Application.DayOfTheWeek" />
       </list>
     </recent_temporary>
   </component>
@@ -147,5 +151,15 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Angies java course" />
     <option name="LAST_COMMIT_MESSAGE" value="Angies java course" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.StringIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
