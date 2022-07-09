@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6b0c22b-aa29-454a-823e-9659d0c242b2" name="Changes" comment="Angies java course">
-      <change afterPath="$PROJECT_DIR$/src/chapter9/BirthdayCake.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter9/Cake.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter9/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter9/InheritanceTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter9/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter9/TasteTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter9/WeddingCake.java" afterDir="false" />
+    <list default="true" id="e6b0c22b-aa29-454a-823e-9659d0c242b2" name="Changes" comment="Chapter 12">
+      <change afterPath="$PROJECT_DIR$/src/chapter12/GradeBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter12/TestResults.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,13 +48,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TasteTester">
-    <configuration name="InheritanceTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter9.InheritanceTester" />
+  <component name="RunManager" selected="Application.GradeBook">
+    <configuration name="GradeBook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter12.GradeBook" />
       <module name="angies_java_course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter9.*" />
+          <option name="PATTERN" value="chapter12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +62,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LotteryTicket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter7.LotteryTicket" />
+    <configuration name="InheritanceTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter9.InheritanceTester" />
       <module name="angies_java_course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter7.*" />
+          <option name="PATTERN" value="chapter9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GradeBook" />
         <item itemvalue="Application.TasteTester" />
         <item itemvalue="Application.InheritanceTester" />
         <item itemvalue="Application.PasswordValidator" />
         <item itemvalue="Application.TextProcessor" />
-        <item itemvalue="Application.LotteryTicket" />
       </list>
     </recent_temporary>
   </component>
@@ -169,7 +164,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="more-chapters" />
+                        <option value="chapter-12" />
                       </list>
                     </value>
                   </entry>
@@ -183,7 +178,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Angies java course" />
-    <option name="LAST_COMMIT_MESSAGE" value="Angies java course" />
+    <MESSAGE value="Chapter 12" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter 12" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
